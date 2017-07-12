@@ -1,0 +1,30 @@
+Circuit: * C:\Users\Seb\Desktop\formant_vco\vco_ltspice_tests\test_schmitt.asc
+
+Direct Newton iteration for .op point succeeded.
+.step itune=1e-007
+.step itune=2e-007
+.step itune=4e-007
+.step itune=8e-007
+.step itune=1.6e-006
+.step itune=3.2e-006
+.step itune=6.4e-006
+.step itune=1.28e-005
+.step itune=2e-005
+
+Date: Sun Jul 09 23:29:51 2017
+Total elapsed time: 35.720 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 554233
+traniter = 554202
+tranpoints = 177923
+accept = 130113
+rejected = 47810
+matrix size = 97
+fillins = 115
+solver = Normal
+Matrix Compiler1: 13.70 KB object code size  3.7/1.8/[0.9]
+Matrix Compiler2: off  [1.4]/1.7/1.8
+
