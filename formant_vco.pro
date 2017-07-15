@@ -1,4 +1,4 @@
-update=11/07/2017 1:25:41 PM
+update=15/07/2017 3:12:55 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,4 +62,3 @@ LibName30=ti_ref102
 LibName31=switch_spst
 LibName32=lm3046
 LibName33=cd4093
-LibName34=7805_sot89
