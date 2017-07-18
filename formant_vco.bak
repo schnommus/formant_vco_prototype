@@ -2181,4 +2181,5 @@ F 3 "" H 2750 1500 50  0001 C CNN
 	1    2750 1500
 	1    0    0    1   
 $EndComp
+Connection ~ 6200 925 
 $EndSCHEMATC
