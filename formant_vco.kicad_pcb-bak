@@ -1084,7 +1084,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 596AE337)
-    (at 78.26 60.01)
+    (at 77.76 60.01)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /59604379)
@@ -1984,7 +1984,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 596AE4E0)
-    (at 88.26 60.01)
+    (at 86.76 60.01)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /596AC73A)
@@ -2186,7 +2186,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_2x01_Pitch2.54mm (layer F.Cu) (tedit 59650532) (tstamp 596AE5D1)
-    (at 81.76 63.51 90)
+    (at 81.26 63.51 90)
     (descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x01 2.54mm double row")
     (path /59604FD1)
@@ -2228,7 +2228,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_2x01_Pitch2.54mm (layer F.Cu) (tedit 59650532) (tstamp 596AE5E9)
-    (at 91.76 63.51 90)
+    (at 90.26 63.51 90)
     (descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x01 2.54mm double row")
     (path /596B4A56)
